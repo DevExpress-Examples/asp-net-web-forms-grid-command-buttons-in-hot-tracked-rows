@@ -3,7 +3,7 @@
 **[[Run Online]](https://codecentral.devexpress.com/t529995/)**
 <!-- run online end -->
 
-This example demonstrated how to use CSS classes to hide command or custom buttons and display them in hot-tracked rows only.
+This example demonstrates how to use CSS classes to hide command or custom buttons and display them in hot-tracked rows only.
 
 ![Show buttons](hoveredRows.gif)
 
