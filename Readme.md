@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - How to display a command or custom button in hot-tracked rows only
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128535570/)**
-<!-- run online end -->
 
 This example demonstrates how to use CSS classes to hide command or custom buttons and display them in hot-tracked rows only.
 
